@@ -45,10 +45,11 @@ visual and interactive geography learning.
 ---------------
 - 🌐 Multi-country support
 - 🗂️ Large-scale datasets (countries, states, capitals, coordinates)
-- 🧠 Advanced game modes (timed, difficulty levels, hints)
+- 🧠 Advanced modes (timed, difficulty levels, hints)
 - 🧩 Modular, dataset-driven architecture
 
 ------------------------------------------------------------
 
 ⭐ If you like this project, consider starring the repository!
 🚀 Learning geography, the interactive way.
+
